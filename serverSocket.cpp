@@ -1,4 +1,5 @@
 #include"./SocketUDP.hpp"
+#include <pthread.h>
 
 #define PROMPT "$>"
 #define EXIT_CMD "quit"
