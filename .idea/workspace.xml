@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91e35c2-e11e-481e-bf80-6e6383c3593b" name="Default Changelist" comment="" />
+    <list default="true" id="d91e35c2-e11e-481e-bf80-6e6383c3593b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +21,26 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kVAAToeU1Cl8fmecbM0dmNo1ac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
@@ -44,11 +57,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605775241212</updated>
-      <workItem from="1605775242273" duration="244000" />
+      <workItem from="1605775242273" duration="700000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1794" y="602" key="Github.ShareDialog" timestamp="1605775663489">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1794" y="602" key="Github.ShareDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1605775663489" />
+    <state x="1702" y="409" key="Github.UntrackedFilesDialog" timestamp="1605775668490">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1702" y="409" key="Github.UntrackedFilesDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1605775668490" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605775519144">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1410@0.0.2560.1410" timestamp="1605775519144" />
+    <state x="1583" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1605775942841">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1583" y="321" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410@0.0.2560.1410" timestamp="1605775942841" />
   </component>
 </project>
